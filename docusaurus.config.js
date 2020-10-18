@@ -79,11 +79,11 @@ module.exports = {
     // metadatas: [{name: 'twitter:card', content: 'summary'}],
     navbar: {
       hideOnScroll: true,
-      title: 'MonoGame',
+      title: '',
       logo: {
         alt: 'MonoGame Logo',
-        src: 'img/monogamelogo.svg',
-        srcDark: 'img/monogamelogo.svg',
+        src: 'img/MonoGameLogo/FullColorOnLight/HorizontalLogo_32px.png',
+        srcDark: 'img/MonoGameLogo/FullColorOnDark/HorizontalLogo_32px.png',
       },
       items: [
         {
@@ -147,7 +147,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} MonoGame. Built with Docusaurus.`,
     },
   },  
 };
