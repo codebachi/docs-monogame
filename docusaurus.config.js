@@ -25,7 +25,7 @@ module.exports = {
   //clientModules: [require.resolve('./dogfooding/clientModuleExample.ts')],
   themes: ['@docusaurus/theme-live-codeblock'],
   plugins: [
-    
+    '@docusaurus/plugin-ideal-image',
   ],
   stylesheets: [
     {

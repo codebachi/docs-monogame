@@ -146,3 +146,5 @@ p > img {
 .katex .textrm {
   font-family: KaTeX_Main, 'Montserrat', 'Noto Sans KR', sans-serif;
 }
+
+img[alt=NinjaFrogFall] { width: 64px; }
