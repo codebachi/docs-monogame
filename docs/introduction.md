@@ -6,6 +6,11 @@ slug: /
 
 ## 히히
 
+[https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb200104(v=xnagamestudio.40)](https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb200104(v=xnagamestudio.40))
+
+XNA 3.1 -> XNA 4.0 변환
+[https://www.nelxon.com/xna-cheatsheet/](https://www.nelxon.com/xna-cheatsheet/)
+
 ```csharp
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
